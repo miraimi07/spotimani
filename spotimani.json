@@ -1,0 +1,18 @@
+{
+  "manifestVersion": 1,
+  "packageId": "com.webandroid.rohan",
+  "host": "open.spotify.com",
+  "name": "Kishibe Rohan",
+  "shortName": "Rohan",
+  "startUrl": "https://open.spotify.com",
+  "display": "standalone",
+  "orientation": "any",
+  "statusBarColor": "#1DB954",
+  "navigationColor": "#000000",
+  "maskableIconUrl": "https://github.com/miraimi07/spotimani/blob/7fd941c9852a1e0f1b51d2718e2cae431b5dae93/spotify.png",
+  "monochromeIconUrl": "https://github.com/miraimi07/spotimani/blob/7fd941c9852a1e0f1b51d2718e2cae431b5dae93/spotify.png",
+  "launcherName": "Kishibe Rohan",
+  "enableNotifications": false,
+  "keyAlias": "spotimani",
+  "keyPassword": "spotimani"
+}
